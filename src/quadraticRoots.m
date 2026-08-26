@@ -1,6 +1,8 @@
 function r = quadraticRoots(a,b,c)
 %QUADRATICROOTS Return the roots of a quadratic polynomial.
 %
+% making some changes
+%
 % r = quadraticRoots(a,b,c) returns the two roots of
 % a*x^2 + b*x + c.
 arguments
