@@ -1,3 +1,4 @@
+% change
 a = 1; b = -3; c = 2;
 x = linspace(0,3,200);
 y = a*x.^2 + b*x + c;
